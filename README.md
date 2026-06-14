@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](Images/Final_dashboard.png)
+![Dashboard](Screenshots/Final_dashboard.png)
 
 
 
