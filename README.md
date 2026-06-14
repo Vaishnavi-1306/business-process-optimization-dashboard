@@ -1,5 +1,9 @@
 # Business Process Optimization & Efficiency Dashboard
 
+## Dashboard Preview
+
+![Dashboard](Screenshots/dashboard_overview(2).png)
+
 ## Objective
 Improve operational efficiency and reduce process bottlenecks.
 
